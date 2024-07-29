@@ -1,0 +1,12 @@
+.currentpictures{
+    display: flex;
+    flex-wrap: wrap
+}
+.currentpictures img {
+    height: 150px;
+    width: 33.33%;
+    flex: 1;
+}
+.userpictures{
+    margin-top: 100px;
+}

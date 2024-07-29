@@ -1,0 +1,10 @@
+.pagination_pages{
+    margin: 30px 0px;
+    display: flex;
+    gap:30px;
+    justify-content: center;
+    align-items: center;
+    position:fixed;
+    top: 50%;
+    left: 30%;
+}

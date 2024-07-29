@@ -1,0 +1,28 @@
+
+.inputdetails{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.userdetail input{
+    height: 60px;
+    width: 400px;
+    outline: none;
+    border: none;
+    color: rgb(77, 77, 77);
+    background-color: rgb(240, 240, 240);
+    border-radius: 50px;
+    padding-left: 30px;
+    font-size: 18px;
+}
+.userdetail button{
+    height: 60px;
+    width: 150px;
+    border-radius: 50px;
+    background-image: linear-gradient(to right, rgb(255, 195, 110), rgb(255, 146, 91));
+    font-size: 22px;
+    border: none;
+    cursor: pointer;
+}
